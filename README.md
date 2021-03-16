@@ -1,7 +1,11 @@
 ### 你好，欢迎来看我 👋
 
-- 🔭 目前我在英荔教育任职，我们正在做在线教育和少儿编程相关的项目，感兴趣的可以了解下 [https://longan.link/](https://longan.link/)
-- 🌱 近期我正在研究 k8s、wot相关的东西
+- 🔭 I’m currently working on Online Education and AIoT. [https://longan.link/](https://longan.link/)
+- 🌱 I’m currently learning about docker、k8s、wot.
+
+### CNCF Certificates
+
+- [x] CKA
 
 <!--
 **xavierchan/xavierchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
