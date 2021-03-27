@@ -1,23 +1,18 @@
-### 你好，欢迎来看我 👋
+### Hello all, nice to see you 👋
 
 - 🔭 I’m currently working on Online Education and AIoT. [https://longan.link/](https://longan.link/)
 - 🌱 I’m currently learning about docker、k8s、wot.
 
-### CNCF Certificates
+### What i have studied
+
+- [Open edX](https://open.edx.org/)
+- [Tutor](https://docs.tutor.overhang.io/)
+- [HomeAssistant](https://www.home-assistant.io/)
+- [OpenBalena](https://www.balena.io/open/)
+- [Scratch](https://scratch.mit.edu/)
+
+### CNCF Certificates Get
 
 - [x] CKA
-
-<!--
-**xavierchan/xavierchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [ ] CKAD
+- [ ] CKAS
