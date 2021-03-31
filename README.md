@@ -13,10 +13,9 @@
 
 ### What I am studying
 
-- ELK
-- Prometheus + Grafana
-- Docker
-- K8S
+- ELK、Prometheus + Grafana
+- Docker、K8S
+- RunC、OCI、Harbor
 
 ### CNCF Certificates Get
 
