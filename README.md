@@ -23,6 +23,10 @@
 - [ ] CKAD
 - [ ] CKAS
 
+### Some Link
+
+- [知乎：Xavier](https://www.zhihu.com/people/xavierchan11)
+
 <!--
 
 <table><tr><td valign="top" width="33%">
